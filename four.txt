@@ -2,9 +2,11 @@
 four, 4
 =======
 four
-<<<<<<< HEAD
 4
+<<<<<<< HEAD
 =======
 4
 >>>>>>> main
 >>>>>>> b891d25 (four.txt)
+=======
+>>>>>>> c93cd27 (made some changes to four.txt)
